@@ -1,0 +1,11 @@
+version = 1
+
+test_patterns = [
+  "version = 1",
+  "[[analyzers]]",
+  "name = \"cxx\"",
+  "enabled = true"
+]
+
+[[analyzers]]
+name = "cxx"
